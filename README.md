@@ -1,4 +1,4 @@
-![MasterHead](https://64.media.tumblr.com/f256455c7412e99e151ee2fb6b5dace7/117fb5f24f448ec7-e4/s540x810/a337014bfe6e7ba2fabd09a4012fdaeeb2246e9f.gif)
+
 <h1 align="center">Hi 👋, I'm Jakub Tabor</h1>
 <h3 align="center">I am Machine Learning and Natural Language Processing student</h3>
 
