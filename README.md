@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jakub Tabor</h1>
 <h3 align="center">I am Machine Learning and Natural Language Processing student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jakubtabor&label=Profile%20views&color=0e75b6&style=flat" alt="jakubtabor" /> </p>
+
 
 - 🌱 I’m currently learning **Machine Learning and Natural Language Processing**
 
