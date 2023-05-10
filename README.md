@@ -15,6 +15,7 @@
 <a href="https://stackoverflow.com/users/jakub77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jakub77" height="30" width="40" /></a>
 <a href="https://kaggle.com/jakub tabor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jakub tabor" height="30" width="40" /></a>
 <a href="https://fb.com/jakub tabor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jakub tabor" height="30" width="40" /></a>
+<a href="https://instagram.com/tabor.jakub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tabor.jakub" height="30" width="40" /></a>
 <a href="https://discord.gg/[Jakub Tabor]#9300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="[Jakub Tabor]#9300" height="30" width="40" /></a>
 </p>
 
