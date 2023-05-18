@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello!, Hola!, Salut!, Hallo!   👋, I'm Jakub Tabor, nice to meet on my page, my friend</h1>
-<h3 align="center">hello my main domain is Machine Learning and Natural Language Processing student</h3>
+<h3 align="center">My main domain is Machine Learning and Natural Language Processing</h3>
 
 
 
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **jaktab77@gamil.com**
 
-- ⚡ Fun fact **I know 5 languages and I live in Spain(Gran Canaria)**
+- ⚡ Fun fact **I know 5 languages and I live in Spain(Gran Canaria), so lots of sun for you my friend**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
