@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Jakub Tabor</h1>
-<h3 align="center">I am Machine Learning and Natural Language Processing student</h3>
+<h1 align="center">Hello!, Hola!, Salut!, Hallo!   👋, I'm Jakub Tabor, nice to meet on my page, my friend</h1>
+<h3 align="center">hello my main domain is Machine Learning and Natural Language Processing student</h3>
 
 
 
