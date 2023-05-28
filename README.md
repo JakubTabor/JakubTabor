@@ -1,6 +1,7 @@
 
 <h1 align="center">Hello!, Hola!, Salut!, Hallo!   👋, I'm Jakub Tabor, nice to meet on my page, my friend</h1>
-<h3 align="center">My main domain is Machine Learning and Natural Language Processing</h3>
+<h3 align="center">My work is Developing state of the art end to end Machine Learning Models to optimize and automate algorithms to increase profitability and reliability of a various tasks.In curt words I can Create machine learning preprocessing, training, and inference pipelines and many more.
+I learn create solutions to industry problems using state of the art  language models and  improve speech technologie</h3>
 
 
 
