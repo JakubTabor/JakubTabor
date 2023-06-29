@@ -1,9 +1,10 @@
 
-<h1 align="center">Hello!, Hola!, Salut!, Hallo!   👋, I'm Jakub Tabor, nice to meet on my page, my friend</h1>
-<h3 align="center">My work is Developing state of the art end to end Machine Learning Models to optimize and automate algorithms to increase profitability and reliability of a various tasks.In curt words I can Create machine learning preprocessing, training, and inference pipelines and many more.
-I learn create solutions to industry problems using state of the art  language models and  improve speech technology</h3>
+<h1 align="center">Hello!, Hola!, Salut!, Hallo!   👋, I'm Jakub Tabor, my profession is Machine Learning Engineer nice to meet on my page, my friend</h1>
+<h3 align="center">My work is analizing and understanding patters in data with use case of plotting graph functions, next preprocessing, filling missing data, dealing with outliers, then applying appropriate Machine Learning Model to optimize a various tasks.🤖 
 
+Im very curious to learn new solutions for resolving various problem in my domain and work with creative people on exciting projects🔥 
 
+I learn how to create solutions to industry problems by applying Machine Learning models and teach them how to deal with it🧠 </h3>
 
 - 🌱 I’m currently learning **Machine Learning and Natural Language Processing**
 
