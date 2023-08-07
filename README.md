@@ -6,6 +6,10 @@ Im very curious to learn new solutions for resolving various problem in my domai
 
 I learn how to create solutions to industry problems by applying Machine Learning models and teach them how to deal with it🧠 </h3>
 
+- 👨‍💻 My portfolio is available at [https://github.com/JakubTabor/Jakub_Portfolio](https://github.com/JakubTabor/Jakub_Portfolio)
+
+- 📝 I regularly write articles on [https://www.linkedin.com/in/jakub-tabor-5b6087275/](https://www.linkedin.com/in/jakub-tabor-5b6087275/)
+
 - 🌱 I’m currently learning **Machine Learning and Natural Language Processing**
 
 - 📫 How to reach me **jaktab77@gamil.com**
