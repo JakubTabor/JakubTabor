@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello! 👋, I'm Jakub Tabor, i'm currently applying for job in fronend and backend  nice to meet on my page</h1>
+<h1 align="center">Hello! 👋, I'm Jakub Tabor, i'm currently searching for job in frontend with HTML and CSS skills and backend with python, nice to meet on my page</h1>
 <h3 align="center">I know a lot about python language and specialization in which i develop it is machine learning and AI. I also start gaining skills in HTML and CSS.🤖 
 
 Im very curious to learn new solutions for resolving various problem in my domain and work with creative people on exciting projects🔥 
