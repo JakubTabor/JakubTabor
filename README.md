@@ -1,6 +1,6 @@
 
-<h1 align="center">Hello! 👋, I'm Jakub Tabor, my profession is Machine Learning Engineer nice to meet on my page, my friend</h1>
-<h3 align="center">My work is analizing and understanding patters in data with use case of plotting graph functions, next preprocessing, filling missing data, dealing with outliers, then applying appropriate Machine Learning Model to optimize a various tasks.🤖 
+<h1 align="center">Hello! 👋, I'm Jakub Tabor, i'm currently applying for job in fronend and backend  nice to meet on my page</h1>
+<h3 align="center">I know a lot about python language and specialization in which i develop it is machine learning and AI. I also start gaining skills in HTML and CSS.🤖 
 
 Im very curious to learn new solutions for resolving various problem in my domain and work with creative people on exciting projects🔥 
 
