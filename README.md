@@ -1,6 +1,7 @@
 
-<h1 align="center">Hello! 👋, I'm Jakub Tabor, i'm currently searching for job in frontend with HTML and CSS skills and backend with python, nice to meet on my page</h1>
-<h3 align="center">I know a lot about python language and specialization in which i develop it is machine learning and AI. I also start gaining skills in HTML and CSS.🤖 
+<h1 align="center">Hello! 👋, I'm Jakub Tabor, i like to learn new technologies and deepen my knowledge in already owned</h1>
+<h3 align="center">My primer language is python i develop it in pytorch library and django framework</h3>
+<h2 align="center">I also start learning HTML and CSS to develop it further into JavaScript</h2>
 
 Im very curious to learn new solutions for resolving various problem in my domain and work with creative people on exciting projects🔥 
 
