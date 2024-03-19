@@ -3,15 +3,11 @@
 <h3 align="center">My primer language is python i develop it in pytorch library and django framework</h3>
 <h2 align="center">I also start learning HTML and CSS to develop it further into JavaScript</h2>
 
-Im very curious to learn new solutions for resolving various problem in my domain and work with creative people on exciting projects🔥 
-
-I learn how to create solutions to industry problems by applying Machine Learning models and teach them how to deal with it🧠 </h3>
-
 - 👨‍💻 My portfolio for machine learning is available at [https://github.com/JakubTabor/Jakub_Portfolio](https://github.com/JakubTabor/Jakub_Portfolio)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/jakub-tabor-5b6087275/](https://www.linkedin.com/in/jakub-tabor-5b6087275/)
 
-- 🌱 I’m currently learning **HTML and CSS**
+- 🌱 I’m currently learning **JAVASCRIPT AND DJANGO**
 
 - 📫 How to reach me **pulower123@gamil.com**
 
