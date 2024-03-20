@@ -5,6 +5,8 @@
 
 - 👨‍💻 My portfolio for machine learning is available at [https://github.com/JakubTabor/Jakub_Portfolio](https://github.com/JakubTabor/Jakub_Portfolio)
 
+- Regression project: [https://github.com/JakubTabor/Regression/tree/main/Regression_Project]
+
 - 📝 I regularly write articles on [https://www.linkedin.com/in/jakub-tabor-5b6087275/](https://www.linkedin.com/in/jakub-tabor-5b6087275/)
 
 - 🌱 I’m currently learning **JAVASCRIPT AND DJANGO**
