@@ -7,7 +7,7 @@
 
 - Regression project: [https://github.com/JakubTabor/Regression/tree/main/Regression_Project](https://github.com/JakubTabor/Regression/tree/main/Regression_Project)
 
-- HTML and CSS project: [https://github.com/JakubTabor/Youtube_project/tree/main?tab=readme-ov-file](https://github.com/JakubTabor/Youtube_project/tree/main?tab=readme-ov-file)
+- HTML<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> and CSS<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> project: [https://github.com/JakubTabor/Youtube_project/tree/main?tab=readme-ov-file](https://github.com/JakubTabor/Youtube_project/tree/main?tab=readme-ov-file)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/jakub-tabor-5b6087275/](https://www.linkedin.com/in/jakub-tabor-5b6087275/)
 
