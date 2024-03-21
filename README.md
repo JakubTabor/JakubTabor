@@ -7,6 +7,8 @@
 
 - Regression project: [https://github.com/JakubTabor/Regression/tree/main/Regression_Project](https://github.com/JakubTabor/Regression/tree/main/Regression_Project)
 
+- HTML and CSS project: [https://github.com/JakubTabor/Youtube_project/tree/main?tab=readme-ov-file](https://github.com/JakubTabor/Youtube_project/tree/main?tab=readme-ov-file)
+
 - 📝 I regularly write articles on [https://www.linkedin.com/in/jakub-tabor-5b6087275/](https://www.linkedin.com/in/jakub-tabor-5b6087275/)
 
 - 🌱 I’m currently learning **JAVASCRIPT AND DJANGO**
