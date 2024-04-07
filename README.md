@@ -5,6 +5,8 @@
 
 - 👨‍💻 My portfolio for python<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> machine learning is available at [https://github.com/JakubTabor/Jakub_Portfolio](https://github.com/JakubTabor/Jakub_Portfolio)
 
+- 👨‍💻 Django project <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30"/>[https://github.com/JakubTabor/Django_discord_like_project](https://github.com/JakubTabor/Django_discord_like_project)
+
 - Regression project: [https://github.com/JakubTabor/Regression/tree/main/Regression_Project](https://github.com/JakubTabor/Regression/tree/main/Regression_Project)
 
 - 👨‍💻 HTML<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> and CSS<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> project: [https://github.com/JakubTabor/Youtube_project/tree/main?tab=readme-ov-file](https://github.com/JakubTabor/Youtube_project/tree/main?tab=readme-ov-file)
