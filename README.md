@@ -3,17 +3,18 @@
 <h3 align="center">My primer language is python i develop it in pytorch library and django framework</h3>
 <h2 align="center">I also start learning HTML and CSS to develop it further into JavaScript</h2>
 
-- 👨‍💻 My portfolio for python<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> machine learning is available at [https://github.com/JakubTabor/Jakub_Portfolio](https://github.com/JakubTabor/Jakub_Portfolio)
-
-- 👨‍💻 **DJANGO PROJECT: DISCORD LIKE WEBSITE** <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30"/>[https://github.com/JakubTabor/Django_discord_like_project](https://github.com/JakubTabor/Django_discord_like_project)
+- 👨‍💻 **PORTFOLIO FOR PYTHON**<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> machine learning is available at [https://github.com/JakubTabor/Jakub_Portfolio](https://github.com/JakubTabor/Jakub_Portfolio)
 
 - **REGRESSION PROJECT PYTHON**: [https://github.com/JakubTabor/Regression/tree/main/Regression_Project](https://github.com/JakubTabor/Regression/tree/main/Regression_Project)
 
+
+- 👨‍💻 **DJANGO PROJECT: DISCORD LIKE WEBSITE** <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30"/>[https://github.com/JakubTabor/Django_discord_like_project](https://github.com/JakubTabor/Django_discord_like_project)
+
 - 👨‍💻 **HTML<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> and CSS**<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> project: [https://github.com/JakubTabor/Youtube_project/tree/main?tab=readme-ov-file](https://github.com/JakubTabor/Youtube_project/tree/main?tab=readme-ov-file)
 
-- 👨‍💻 JavaScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> **project: ROCK PAPER SCISSORES GAME**: [https://github.com/JakubTabor/Game_rock_paper_scisors_JavaScript](https://github.com/JakubTabor/Game_rock_paper_scisors_JavaScript)
+- 👨‍💻 **JavaScript** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> **project: ROCK PAPER SCISSORES GAME**: [https://github.com/JakubTabor/Game_rock_paper_scisors_JavaScript](https://github.com/JakubTabor/Game_rock_paper_scisors_JavaScript)
 
-- 👨‍💻 JavaScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> **project: AMAZON LIKE WEBSITE**: [https://github.com/JakubTabor/Amazon_like_website](https://github.com/JakubTabor/Amazon_like_website)
+- 👨‍💻 **JavaScript** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> **project: AMAZON LIKE WEBSITE**: [https://github.com/JakubTabor/Amazon_like_website](https://github.com/JakubTabor/Amazon_like_website)
 - 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/jakub-tabor-5b6087275/](https://www.linkedin.com/in/jakub-tabor-5b6087275/)
 
