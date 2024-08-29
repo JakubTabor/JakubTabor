@@ -5,6 +5,8 @@
 
 - 👨‍💻 **PORTFOLIO FOR PYTHON**<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> machine learning is available at [https://github.com/JakubTabor/Jakub_Portfolio](https://github.com/JakubTabor/Jakub_Portfolio)
 
+- 👨‍💻 **PORTFOLIO FOR PYTORCH**<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/> [https://github.com/JakubTabor/GPT/tree/main](https://github.com/JakubTabor/GPT/tree/main)
+
 - **REGRESSION PROJECT PYTHON**: [https://github.com/JakubTabor/Regression/tree/main/Regression_Project](https://github.com/JakubTabor/Regression/tree/main/Regression_Project)
 
 
